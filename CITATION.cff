@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EpiResNet"
+authors:
+  - given-names: "MK"
+date-released: 2026-08-11
+url: "https://github.com/MyMKGitH/EpiResNet.git"
+license: MIT
