@@ -15,6 +15,8 @@ license: mit
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.org/spaces)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://zenodo.org/badge/1333497044.svg)](https://doi.org/10.5281/zenodo.21924590)
+
 
 ## 📌 Name Origin & Meaning
 **EpiResNet-v5** stands for **Epi**demiologic & **Epi**static **Res**idual **Net**work (Version 5):
