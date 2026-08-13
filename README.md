@@ -17,7 +17,6 @@ license: mit
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![DOI](https://zenodo.org/badge/1333497044.svg)](https://doi.org/10.5281/zenodo.21924590)
 
-
 ## 📌 Name Origin & Meaning
 **EpiResNet-v5** stands for **Epi**demiologic & **Epi**static **Res**idual **Net**work (Version 5):
 * **Epi**: Represents epidemiological surveillance of antimicrobial resistance (AMR) and epistatic protein sequence variation.
